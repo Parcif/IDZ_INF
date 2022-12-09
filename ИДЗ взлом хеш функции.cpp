@@ -51,7 +51,7 @@ int main()
 		t = next(t);
 		if (t == s) 
 		{ 
-			cout << "NO SOLUTION"; 
+			cout << "No solution!!!"; 
 			return 0; 
 		}
 	}
